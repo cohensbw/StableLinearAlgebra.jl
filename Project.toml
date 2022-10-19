@@ -7,6 +7,7 @@ version = "1.3.4"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 
 [compat]
+FastLapackInterface = "1"
 julia = "1.7"
 
 [extras]
